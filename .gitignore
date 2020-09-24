@@ -1,0 +1,6 @@
+*.tgz
+*.tar.gz
+*.swp
+env.sh
+.idea
+.DS_Store
